@@ -26,5 +26,7 @@ ul {
 }
 
 button {
-    outline: oklab(lightness a b);
+    outline-style: outset;
+    outline-color: #162b52;
+    outline-width: 4px;
 }
