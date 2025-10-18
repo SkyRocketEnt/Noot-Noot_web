@@ -33,6 +33,7 @@ p {
 
 .nav-links li{
     margin-right: 20px;
+    text-decoration: none;
     float: left;
 }
 
@@ -40,28 +41,24 @@ a.nav-links:link
 {
    color: #fb3f00;
    text-decoration: none;
-   float: left;
 }
 
 a.nav-links:visited
 {
    color: #fb3f00;
    text-decoration: none;
-   float: left;
 }
 
 a.nav-links:hover
 {
    color: #fb3f00;
    text-decoration: none;
-   float: left;
 }
 
 a.nav-links:active
 {
    color: #fb3f00;
    text-decoration: none;
-   float: left;
 }
 
 .food-links li {
