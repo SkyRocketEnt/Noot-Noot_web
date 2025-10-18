@@ -41,4 +41,5 @@ p {
     margin-left: 15px;
     border-style: solid;
     border-color: #7c9aff;
+    overflow: hidden;
 }
