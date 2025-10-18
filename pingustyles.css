@@ -28,6 +28,7 @@ p {
 
 .nav-links li {
     float: left;
+    margin-right: 15px;
 }
 
 button {
