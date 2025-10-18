@@ -40,6 +40,7 @@ a.nav-links:link
 {
    color: #fb3f00;
    text-decoration: none;
+   float: left;
 }
 
 a.nav-links:visited
