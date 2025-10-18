@@ -29,7 +29,7 @@ p {
     list-style-type: none;
 }
 
-a.nav-links li {
+.nav-links li {
     float: left;
     margin-right: 15px;
     text-align: center;
