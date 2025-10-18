@@ -35,6 +35,7 @@ a.nav-link:link
 {
    color: #fb3f00;
    text-decoration: none;
+   float: left;
 }
 a.nav-link:visited
 {
