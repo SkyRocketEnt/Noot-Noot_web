@@ -26,6 +26,10 @@ p {
     list-style-type: none;
 }
 
+.nav-links li {
+    float: left;
+}
+
 button {
     outline-style: outset;
     outline-color: #162b52;
