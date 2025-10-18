@@ -19,7 +19,7 @@ p {
     color: #f1f1f1;
 }
 
-.nav-links {
+.nav-menu {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -31,12 +31,25 @@ p {
     text-decoration: none;
 }
 
-.nav-links li {
-    float: left;
-    margin-right: 15px;
-    text-align: center;
-    font-family: Arial, sans-serif;
-    color: #f1f1f1;
+a.nav-link:link
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:visited
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:hover
+{
+   color: #fb3f00;
+   text-decoration: none;
+}
+a.nav-link:active
+{
+   color: #fb3f00;
+   text-decoration: none;
 }
 
 .food-links li {
