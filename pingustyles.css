@@ -39,25 +39,25 @@ p {
 
 a.nav-links:link
 {
-   color: #fb3f00;
+   color: #f1f1f1;
    text-decoration: none;
 }
 
 a.nav-links:visited
 {
-   color: #fb3f00;
+   color: #f1f1f1;
    text-decoration: none;
 }
 
 a.nav-links:hover
 {
-   color: #fb3f00;
+   color: #5a7ff8;
    text-decoration: none;
 }
 
 a.nav-links:active
 {
-   color: #fb3f00;
+   color: #5a7ff8;
    text-decoration: none;
 }
 
