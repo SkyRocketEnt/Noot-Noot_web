@@ -30,6 +30,7 @@ p {
     float: left;
     margin-right: 15px;
     text-align: center;
+    justify-content: center;
 }
 
 .food-links li {
