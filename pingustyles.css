@@ -27,6 +27,7 @@ p {
     padding: 10px;
     border-radius: 5px;
     list-style-type: none;
+    text-decoration: none;
 }
 
 .nav-links li {
