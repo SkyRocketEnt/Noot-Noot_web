@@ -32,7 +32,7 @@ p {
     text-align: center;
 }
 
-ul {
+ul li {
     outline-style: outset;
     outline-color: #162b52;
     outline-width: 8px;
