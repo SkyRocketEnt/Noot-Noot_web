@@ -31,25 +31,31 @@ p {
     text-decoration: none;
 }
 
-a.nav-link:link
+.nav-links li {
+    display: inline;
+    margin-right: 20px;
+    float: left;
+}
+
+a.nav-links:link
 {
    color: #fb3f00;
    text-decoration: none;
 }
 
-a.nav-link:visited
+a.nav-links:visited
 {
    color: #fb3f00;
    text-decoration: none;
 }
 
-a.nav-link:hover
+a.nav-links:hover
 {
    color: #fb3f00;
    text-decoration: none;
 }
 
-a.nav-link:active
+a.nav-links:active
 {
    color: #fb3f00;
    text-decoration: none;
