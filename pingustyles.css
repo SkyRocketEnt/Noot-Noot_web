@@ -24,7 +24,7 @@ p {
     padding: 10px;
     border-radius: 5px;
     list-style-type: none;
-    align-content: center;
+    align-items: center;
 }
 
 .nav-links li {
