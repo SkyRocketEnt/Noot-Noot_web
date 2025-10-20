@@ -31,7 +31,7 @@ p {
     text-decoration: none;
 }
 
-.nav-menu li{
+.nav-menu li {
     margin-right: 20px;
     text-decoration: none;
     font-weight: bold;
@@ -39,26 +39,22 @@ p {
     float: left;
 }
 
-a.nav-links:link
-{
+a.nav-links:link {
    color: #f1f1f1;
    text-decoration: none;
 }
 
-a.nav-links:visited
-{
+a.nav-links:visited {
    color: #f1f1f1;
    text-decoration: none;
 }
 
-a.nav-links:hover
-{
+a.nav-links:hover {
    color: #5a7ff8;
    text-decoration: none;
 }
 
-a.nav-links:active
-{
+a.nav-links:active {
    color: #5a7ff8;
    text-decoration: none;
 }
