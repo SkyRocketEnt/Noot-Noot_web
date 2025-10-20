@@ -39,12 +39,6 @@ p {
     float: left;
 }
 
-.food-names {
-    margin: 20px;
-    font-family: Arial, sans-serif;
-    color: #f1f1f1;
-}
-
 a.nav-links:link {
    color: #f1f1f1;
    text-decoration: none;
@@ -75,3 +69,8 @@ a.nav-links:active {
     display: inline-block;
 }
 
+.food-names {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: #f1f1f1;
+}
