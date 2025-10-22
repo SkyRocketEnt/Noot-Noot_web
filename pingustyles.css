@@ -1,22 +1,22 @@
 body {
-    background-color: #5f5f5f;
+    background-color: #f1f1f1;
 }
 
 h1 {
     font-family: Arial, sans-serif;
-    color: #f1f1f1;
+    color: #548CA8;
     text-align: center;
 }
 
 h2 {
     font-family: Arial, sans-serif;
-    color: #f1f1f1;
+    color: #548CA8;
     text-align: left;
 }
 
 p {
     font-family: Arial, sans-serif;
-    color: #f1f1f1;
+    color: #548CA8;
 }
 
 .nav-menu {
@@ -25,6 +25,7 @@ p {
     align-items: center;
     font-family: Arial, sans-serif;
     color: #f1f1f1;
+    background-color: #476072;
     padding: 10px;
     border-radius: 5px;
     list-style-type: none;
