@@ -67,7 +67,7 @@ a.nav-links:active {
     border-style: solid;
     border-color: #548CA8;
     margin-top: 5px;
-    display: inline-block;
+    display: flex;
 }
 
 .food-names {
