@@ -66,6 +66,8 @@ a.nav-links:active {
     margin-left: 15px;
     margin-top: 5px;
     display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
 .food-names {
