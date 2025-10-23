@@ -74,7 +74,9 @@ a.nav-links:active {
     color: #f1f1f1;
 }
 
-a.food-image img{
+a.food-image img {
     border-style: solid;
     border-color: #548CA8;
+    border-width: 5px;
+    display: flex;
 }
