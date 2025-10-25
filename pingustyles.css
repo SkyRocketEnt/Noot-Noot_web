@@ -30,7 +30,6 @@ p {
     border-radius: 5px;
     list-style-type: none;
     text-decoration: none;
-    flex: wrap;
 }
 
 .nav-menu li {
@@ -39,6 +38,8 @@ p {
     font-weight: bold;
     font-size: 24px;
     float: left;
+    flex-wrap: wrap;
+    align-content: space-evenly;
 }
 
 a.nav-links:link {
