@@ -30,6 +30,7 @@ p {
     border-radius: 5px;
     list-style-type: none;
     text-decoration: none;
+    flex: wrap;
 }
 
 .nav-menu li {
