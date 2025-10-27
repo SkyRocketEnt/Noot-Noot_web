@@ -83,6 +83,4 @@ a.nav-links:active {
     border-color: #476072;
     border-width: 5px;
     display: flex;
-    flex-direction: row;
-    align-items: center;
 }
