@@ -81,7 +81,19 @@ a.nav-links:active {
     border-style: solid;
     border-color: #476072;
     border-width: 5px;
+    border-radius: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+img {
+    border-radius: 10px;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    cursor: pointer;
 }
