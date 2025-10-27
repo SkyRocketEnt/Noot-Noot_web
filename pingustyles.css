@@ -69,7 +69,6 @@ a.nav-links:active {
     margin-top: 5px;
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 
 .food-names {
@@ -83,4 +82,7 @@ a.nav-links:active {
     border-color: #476072;
     border-width: 5px;
     display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
