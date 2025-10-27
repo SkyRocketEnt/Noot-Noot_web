@@ -80,7 +80,7 @@ a.nav-links:active {
 .food-image {
     border-style: solid;
     border-color: #476072;
-    border-width: 10px;
+    border-width: 7px;
     border-radius: 15px;
     display: flex;
     align-items: center;
